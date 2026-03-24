@@ -74,7 +74,7 @@ to get to the index.html file and replace the default nginx page with the index.
 
 Check your public ip and it has magically updated.
 
-##Useful commands
+## Useful commands
 - sudo systemctl status nginx
 - sudo systemctl restart nginx
 - sudo systemctl stop nginx
