@@ -80,4 +80,3 @@ Check your public ip and it has magically updated.
 - sudo systemctl stop nginx
 - sudo nginx -t
 
-[def]: ec2-1.png
